@@ -124,14 +124,5 @@ async function makeBrusselsSprouts() {
 }
 makeBrusselsSprouts()
 
-const step0 = obtainInstruction ('broccoli', 0)
-const step1 = obtainInstruction ('broccoli', 1)
-const step2 = obtainInstruction ('broccoli', 2)
-const step3 = obtainInstruction ('broccoli', 3)
-const step4 = obtainInstruction ('broccoli', 4)
-const step5 = obtainInstruction ('broccoli', 5)
-const step6= obtainInstruction ('broccoli', 6)
-
-
 // Bonus 2 - Promise all
-// ...
+// ..
